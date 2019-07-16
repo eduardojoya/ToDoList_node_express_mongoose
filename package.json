@@ -1,0 +1,22 @@
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "description": "This is a to do list app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "edo joya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.14",
+    "mongoose": "^5.6.4",
+    "request": "^2.88.0"
+  }
+}
